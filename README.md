@@ -20,10 +20,6 @@
   <a href="https://www.linkedin.com/in/nathan-assis/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
-
-  <a href="https://drive.google.com/file/d/1gUbOBnX4ryJlghMZq90mMxX7FQz3LeRZ/view">
-    <img src="https://img.shields.io/badge/curriculum-4C1?style=for-the-badge" alt="Curriculum"/>
-  </a>
 </p>
 
 <h3 align="left">
