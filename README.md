@@ -28,7 +28,7 @@
 
 <p align="left">
   ▪ I'm a Fullstack Developer from Brazil 🖥🇧🇷</br>
-  ▪ Bachelor's degree in Computer Science at <a href="https://ufla.br/">Federal University of Lavras</a></br>
+  ▪ Computer Science Student at <a href="https://ufla.br/">Federal University of Lavras</a></br>
   ▪ Debian user <img src="https://raw.githubusercontent.com/nathan-assis/nathan-assis/main/assets/debian.svg" height="16px" alt="Debian logo"/></br>
   ▪ Chess is really fun, <a href="https://link.chess.com/friend/VrJ1cb">let's play</a></br>
   ▪ <b>I'm a human, not an ogre!</b>
