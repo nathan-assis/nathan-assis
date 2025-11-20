@@ -50,7 +50,7 @@
 <details>
   <summary><b>I'm currently...</b></summary>
 
-> looking for a new job. Feel free to reach me! ❤️
+> Working hard. Feel free to reach me! ❤️
 
 <img src="https://raw.githubusercontent.com/nathan-assis/nathan-assis/main/assets/cute-cat.jpg" alt="Puss In Boots cute eyes" align="center">
 
