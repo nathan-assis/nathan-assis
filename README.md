@@ -35,7 +35,7 @@
 </p>
 
 
-</br>
+</br></br>
 <details>
   <summary><b>My projects</b></summary>
 
